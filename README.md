@@ -12,4 +12,4 @@
 - Drag & drop: Reorder antar todos
 
 ## Links
-- Article Medium [Medium Task 3](https://medium.com/@hylmikhalil/bagaimana-caroussel-bisa-bekerja-dc47548f5bd5).
+- Article Medium [Medium Task 3](https://medium.com/@hylmikhalil/kenapa-vanilla-ada-di-dunia-programming-deb993924597).
