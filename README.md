@@ -15,3 +15,4 @@
 
 ## Links
 - Article Medium [Medium Task 3](https://medium.com/@hylmikhalil/kenapa-vanilla-ada-di-dunia-programming-deb993924597).
+- Article Medium [Medium Task 4](https://medium.com/@hylmikhalil/i-prefer-to-use-fastfetch-instead-neofetch-why-2a9e12e95c45).
